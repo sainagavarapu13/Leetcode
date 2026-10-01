@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/sainagavarapu13/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sainagavarapu13/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sainagavarapu13/Leetcode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sainagavarapu13/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sainagavarapu13/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sainagavarapu13/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sainagavarapu13/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sainagavarapu13/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sainagavarapu13/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sainagavarapu13/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sainagavarapu13/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sainagavarapu13/Leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/sainagavarapu13/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sainagavarapu13/Leetcode/tree/master/0053-maximum-subarray) |
 ## Algorithm X
 |  |
 | ------- |

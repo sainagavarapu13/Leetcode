@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sainagavarapu13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sainagavarapu13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sainagavarapu13/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sainagavarapu13/Leetcode/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sainagavarapu13/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/sainagavarapu13/Leetcode/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sainagavarapu13/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sainagavarapu13/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

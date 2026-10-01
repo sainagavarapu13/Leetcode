@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sainagavarapu13/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sainagavarapu13/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sainagavarapu13/Leetcode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/sainagavarapu13/Leetcode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |

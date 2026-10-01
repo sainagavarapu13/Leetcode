@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sainagavarapu13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sainagavarapu13/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sainagavarapu13/Leetcode/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sainagavarapu13/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sainagavarapu13/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sainagavarapu13/Leetcode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/sainagavarapu13/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0045-jump-game-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sainagavarapu13/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

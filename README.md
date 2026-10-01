@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sainagavarapu13/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/sainagavarapu13/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sainagavarapu13/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sainagavarapu13/Leetcode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sainagavarapu13/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sainagavarapu13/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sainagavarapu13/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/sainagavarapu13/Leetcode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sainagavarapu13/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sainagavarapu13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sainagavarapu13/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sainagavarapu13/Leetcode/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |

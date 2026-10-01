@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainagavarapu13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sainagavarapu13/Leetcode/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainagavarapu13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sainagavarapu13/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/sainagavarapu13/Leetcode/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sainagavarapu13/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sainagavarapu13/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sainagavarapu13/Leetcode/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
